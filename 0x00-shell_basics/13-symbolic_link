@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/bin/ls -s -- _ls_
+-s _ls_ -> /bin/ls
